@@ -1,0 +1,19 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Astrolabs Software
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Thomas
+    family-names: Jenkins
+    orcid: 'https://orcid.org/0009-0000-9268-4400'
+    affiliation: Durham University
+repository-code: 'https://github.com/ThomasJenkins-phys/Astrolabs-Durham'
+abstract: >-
+  A code repository for work done as part of 3rd year
+  Astrolabs at Durham University 
+license: Apache-2.0
